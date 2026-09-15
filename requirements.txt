@@ -1,1 +1,1 @@
-telethon 
+sudi telegram bot this bot automatically forward the message from one channel to  multiple channels 
